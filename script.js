@@ -14,7 +14,7 @@ function Ans()
     output.value=eval(output.value);
    }
    catch{
-    alert("Invalid");
+    alert("Only numbers are allowed");
    }
 }
 function clr()
